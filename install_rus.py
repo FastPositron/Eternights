@@ -19,7 +19,7 @@ from tkinter import ttk, filedialog, messagebox
 # CONSTANTS
 # =====================================================
 APP_TITLE = "Eternights - Русификатор"
-APP_VERSION = "1.3"
+APP_VERSION = "1.4"
 BUNDLE_NAME = "gamemanager_assets_all_2a1ab4181e2e1d6bed81737aeb159efc.bundle"
 BUNDLE_HASH = "2a1ab4181e2e1d6bed81737aeb159efc"
 DB_PID = -5833716775174085199
