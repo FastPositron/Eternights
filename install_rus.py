@@ -43,7 +43,14 @@ def get_data_path():
 def load_translations():
     dp = get_data_path()
     with open(dp / "dialogues.json", encoding='utf-8') as f:
-        translations = json.load(f)
+        raw = json.load(f)
+    # Build lookup with both original and normalized keys
+    translations = {}
+    for en, ru in raw.items():
+        translations[en] = ru
+        n = normalize(en)
+        if n != en:
+            translations[n] = ru
     with open(dp / "ui_ru.json", encoding='utf-8') as f:
         ui_ru = json.load(f)
     return translations, ui_ru
@@ -364,7 +371,7 @@ def do_install(game_path, log_fn, progress_fn):
     total = res_replacements + tt_fields + bundle_replacements
     log_fn(f"\n{'='*40}")
     log_fn(f"ГОТОВО! Всего {total} замен.")
-    log_fn(f"Запусти игру и выбери 'German' в настройках языка (он заменён на русский).")
+    log_fn(f"Запусти игру и выбери 'Deutsch' в настройках языка (он заменён на русский).")
 
 def do_uninstall(game_path, log_fn, progress_fn):
     """Restore original files from backup."""
