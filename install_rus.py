@@ -38,13 +38,13 @@ def get_data_path():
     """Get path to data files (works both in dev and PyInstaller)."""
     if getattr(sys, '_MEIPASS', None):
         return Path(sys._MEIPASS) / "data"
-    return Path(__file__).parent / "output"
+    return Path(__file__).parent / "translations"
 
 def load_translations():
     dp = get_data_path()
-    with open(dp / "existing_translations.json", encoding='utf-8') as f:
+    with open(dp / "dialogues.json", encoding='utf-8') as f:
         translations = json.load(f)
-    with open(dp / "ui_strings_ru.json", encoding='utf-8') as f:
+    with open(dp / "ui_ru.json", encoding='utf-8') as f:
         ui_ru = json.load(f)
     return translations, ui_ru
 
