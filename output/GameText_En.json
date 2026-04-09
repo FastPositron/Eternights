@@ -1,0 +1,1260 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8937652637357759632
+  },
+  "m_Name": "GameText_En",
+  "language": 0,
+  "sections": [
+    {
+      "name": " GameText_01_EnglishConfirmText",
+      "entries": [
+        {
+          "key": 48,
+          "value": " Yes"
+        },
+        {
+          "key": 49,
+          "value": " No"
+        }
+      ]
+    },
+    {
+      "name": " GameText_02_EnglishGeneralSection",
+      "entries": [
+        {
+          "key": 12,
+          "value": " Log"
+        },
+        {
+          "key": 11,
+          "value": " Move"
+        },
+        {
+          "key": 14,
+          "value": " Enter"
+        },
+        {
+          "key": 175,
+          "value": " Boss Arena"
+        },
+        {
+          "key": 807,
+          "value": "Saving..."
+        }
+      ]
+    },
+    {
+      "name": " GameText_03_EnglishControlsSection",
+      "entries": [
+        {
+          "key": 6,
+          "value": " Left Tab"
+        },
+        {
+          "key": 7,
+          "value": " Right Tab"
+        },
+        {
+          "key": 8,
+          "value": " Exit"
+        },
+        {
+          "key": 9,
+          "value": " Select"
+        },
+        {
+          "key": 4,
+          "value": " Confirm"
+        },
+        {
+          "key": 5,
+          "value": " Cancel"
+        },
+        {
+          "key": 153,
+          "value": " Hold"
+        }
+      ]
+    },
+    {
+      "name": " GameText_04_EnglishTutorialSection",
+      "entries": [
+        {
+          "key": 18,
+          "value": " Attack"
+        },
+        {
+          "key": 27,
+          "value": "<style=Title><b><color=#9a75ff>Attack</color></b></style> \n\nUse  {ButtonWest}  to attack and create combos with your sword.\n\nPress {RightShoulder} at the end of combos to inflict extra damage on the enemy."
+        },
+        {
+          "key": 19,
+          "value": " Lock On"
+        },
+        {
+          "key": 28,
+          "value": " <style=Title><b><color=#9a75ff>Lock On</color></b></style> \n\nPress  <size=135%>{RightStick}</size>  to lock on/off the enemy."
+        },
+        {
+          "key": 20,
+          "value": " Perfect Dodge"
+        },
+        {
+          "key": 29,
+          "value": "<style=Title><b><color=#9a75ff>Perfect Dodge</color></b></style> \r\n\r\nDodging <i>right before</i> an enemy attack triggers <color=#00FFFF><b>Slows Down</b></color> .\r\n\r\nUse  {ButtonSouth}  <i>right before</i> enemy attacks.\r"
+        },
+        {
+          "key": 21,
+          "value": " Elemental Fist"
+        },
+        {
+          "key": 30,
+          "value": "<style=Title><b><color=#9a75ff>Elemental Fist</color></b></style> \r\n\r\nSome enemies have <color=red>Barriers</color> that can only be broken via <color=#cbadff>Elemental Fist</color>.\r\n\r\nYou can use <color=#cbadff>Elemental Fist</color> by pressing {LeftTrigger} after charging <color=yellow>Elemental Gauge</color>.\n\r\nYou can charge <color=yellow>Elemental Gauge</color> through <color=#00FFFF>attacks</color> and <color=#00FFFF>Perfect Dodge</color>."
+        },
+        {
+          "key": 22,
+          "value": " Weakness"
+        },
+        {
+          "key": 31,
+          "value": " <style=Title><b><color=#9a75ff>Weakness</color></b></style> \n\nThe only way to break an enemy's barrier is to use the correct <color=#cbadff>Elemental</color> type (see to the left). \n\nSome monsters have <color=red>Stronger Barriers</color> that require multiple strikes from the Elemental Fist. \n\nThe <color=green>stronger</color> your bond with your confidants is, the more times your elemental fist will strike the barrier."
+        },
+        {
+          "key": 23,
+          "value": " Fast Travel"
+        },
+        {
+          "key": 32,
+          "value": " <style=Title><b><color=#9a75ff>Fast Travel</color></b></style> \n\nUse {Interact} to access the fast-travel menu.\nYou are only able to fast-travel to areas you've visited before.\n\n<style=h3><b><color=#00FF66>*Tip 1*</color></b></style>\nSome, but not all, fast-travel areas allow you to <color=#00FFFF>SAVE</color> through the main menu by pressing  <size=135%>{MenuStart}</size>.\n\n<style=h3><b><color=#00FF66>*Tip 2*</color></b></style>\nAll tutorials are stored in the main menu."
+        },
+        {
+          "key": 24,
+          "value": " Dateable Skill"
+        },
+        {
+          "key": 33,
+          "value": "<style=Title><b><color=#9a75ff>Dateable Skills</color></b></style> \r\n\r\nPressing {RightTrigger}  will show you dateable skills you can use.\r\n\r\nUse {Dpad}  to cycle through them and {MenuConfirm} to confirm.\r\n\r\nUsing the dateable skill consumes <color=#ff8830>SP</color>.\r\n<color=#ff8830>SP</color> can't be restored manually.\r"
+        },
+        {
+          "key": 25,
+          "value": "Skill Tree & Essences"
+        },
+        {
+          "key": 34,
+          "value": " <style=Title><b><color=#9a75ff>Skill Tree & Essences</color></b></style> \r\n\r\nSome enemies give you <color=#cbadff>Black Essence</color>.\r\n\r\nYou can use these points to upgrade your skills in the <color=#cbadff>Skill Tree</color>.\r\n\r\nUse <sprite name=\"PS_START\"> to access the <color=#cbadff>Skill Tree</color> through the main menu.\r\n\n<style=h3><b><color=#00FF66>*Tip*</color></b></style> \r\nYou can also pick up essence while exploring the dungeon.\r"
+        },
+        {
+          "key": 26,
+          "value": " Calendar"
+        },
+        {
+          "key": 35,
+          "value": "<style=Title><b><color=#9a75ff>Calendar Gameplay</color></b></style> \r\n\r\nYou are free to spend your day as you’d like. \r\n\r\nHowever, you don’t have unlimited time. The <color=red><b>Wall</b></color> must be dealt with before the <color=red><b>Timer</b></color> runs out.\r\n\r\nYou can talk to <color=#00FFFF>Aria</color> at the <b>Hologram Station</b> to go to the <color=red><b>Wall</b></color>.\r"
+        },
+        {
+          "key": 114,
+          "value": " Stinger"
+        },
+        {
+          "key": 121,
+          "value": "<style=Title><b><color=#9a75ff>Stinger </color></b></style> \r\n\r\nPress {ButtonNorth} while holding {RightShoulder} to use the <b>Stinger</b>.\r\n\r\n<color=#cbadff>A powerful sword thrust</color> that moves you closer to enemies while also damaging them.\r\n\r\n<style=h3><b><color=#00FF66>*Tip*</color></b></style>\r\nThis skill <color=#00FFFF>knocks down</color> enemies.\r"
+        },
+        {
+          "key": 115,
+          "value": " Blast"
+        },
+        {
+          "key": 122,
+          "value": "<style=Title><b><color=#9a75ff>Blast</color></b></style> \r\n\r\nPress {ButtonEast} while holding {RightShoulder} to shoot a <color=#cbadff>damaging wave of energy</color> towards your target.\r"
+        },
+        {
+          "key": 116,
+          "value": " AOE"
+        },
+        {
+          "key": 123,
+          "value": "<style=Title><b><color=#9a75ff>AOE </color></b></style> \r\n\r\nPress {ButtonWest} while holding {RightShoulder} to use <b>AOE attack</b>.\r\n\r\n<b>AOE attack</b> <color=#cbadff> creates an area of damage </color> around you.\r"
+        },
+        {
+          "key": 117,
+          "value": " Three Sword"
+        },
+        {
+          "key": 124,
+          "value": " <style=Title><b><color=#9a75ff>Three Sword </color></b></style> \n\nPress {ButtonSouth} while holding {RightShoulder} to summon <b>Three Swords</b> to attack enemies in your immediate area.\n\n<style=h3><b><color=#00FF66>*Tip*</color></b></style> \nDeveloping a stronger bond with Sia will make this skill stronger."
+        },
+        {
+          "key": 118,
+          "value": " Great Sword"
+        },
+        {
+          "key": 125,
+          "value": "<style=Title><b><color=#9a75ff>Great Sword</color></b></style> \r\n\rUse  {ButtonNorth}  to use <b>Great Sword</b>.\r\n\r\n<style=h3><b><color=#00FF66>*Tip*</color></b></style>\r\nYour great sword is capable of penetrating through enemy shields.\r\n"
+        },
+        {
+          "key": 119,
+          "value": " DeathBlow"
+        },
+        {
+          "key": 126,
+          "value": " <style=Title><b><color=#9a75ff>Deathblow</color></b></style> \n\nAllows you to give devastating damage to the target enemy. Press {ButtonEast} when you see the indicator. This will be activated when you've struck the enemy continuously for a particular duration.\n\n<style=h3><b><color=#00FF66>*Tip*</color></b></style>\nThis skill will destroy smaller types of enemies <color=#00FFFF><b>instantly</b></color>."
+        },
+        {
+          "key": 120,
+          "value": " All Out Attack"
+        },
+        {
+          "key": 127,
+          "value": "<style=Title><b><color=#9a75ff>All Out Attack</color></b></style> \r\n\r\nYou can use the “All out attack” by filling up the four circles that make up the The “All out attack” gauge. You fill these circles by using elemental attacks. \r\n\r\nOnce fully charged, press the left {LeftShoulder} and the right {RightShoulder} together to initiate the <color=#00FFFF>All Out Attack</color>.\r\n\r\n<style=h3><b><color=#00FF66>*Tip*</color></b></style> \r\n“All out attack” allows you to destroy <b><color=red>any type of barrier</color></b>\r"
+        },
+        {
+          "key": 128,
+          "value": " Sprint"
+        },
+        {
+          "key": 129,
+          "value": " <style=Title><b><color=#9a75ff>Sprint</color></b></style> \n\nPress the left stick {LeftStick} <color=#00FFFF><b>once</b></color> while running to sprint."
+        },
+        {
+          "key": 147,
+          "value": "<style=Title><b><color=#9a75ff>Calendar Gameplay 2</color></b></style> \r\n\r\n<style=h3><b><color=#00FF66>*Note 1*</color></b></style> \r\nYou are <color=#FF0000>unable</color> to go to the wall <color=#FF0000>at night</color>. So, remember to plan accordingly. \r\n\r\n<style=h3><b><color=#00FF66>*Note 2*</color></b></style> \r\nSpend time with your confidants in order to become more powerful.\r"
+        },
+        {
+          "key": 148,
+          "value": " Calendar Tip"
+        },
+        {
+          "key": 164,
+          "value": " <style=Title><b><color=#9a75ff>Walk Quietly</color></b></style> \n\n<color=#00FFFF><b>Gently</b></color> push the left stick {LeftStick} forward to walk quietly."
+        },
+        {
+          "key": 165,
+          "value": " <style=Title><b><color=#9a75ff>Sia Bike</color></b></style> \n\nUse the left stick {LeftStick} to control the bike and avoid obstacles. Use the {ButtonWest} to shoot missiles that can destroy energy walls."
+        },
+        {
+          "key": 166,
+          "value": " <style=Title><b><color=#9a75ff>Sia’s Lab</color></b></style> \n\nWhen you want to talk to Sia, you can visit her in her lab towards the front of the train."
+        },
+        {
+          "key": 167,
+          "value": "<style=Title><b><color=#9a75ff>Plan Computer</color></b></style> \r\n\r\nNow that Aria is gone, you have to plan out your own day. Use this computer when you want to <color=#00FFFF>Go to Wall</color>.\r\n\r\nRemember, you are <color=#FF0000>unable to go to the wall at night</color>. So, remember to plan accordingly. \r"
+        },
+        {
+          "key": 168,
+          "value": "<style=Title><b><color=#9a75ff>Instant Heal</color></b></style> \r\n\r\nYuna can now heal you instantly. \r\n\r\n<style=h3><b><color=#00FF66>*Unlock*</color></b></style> \r\nYou can unlock Yuna’s skills in her skill tree page.\r"
+        },
+        {
+          "key": 169,
+          "value": "<style=Title><b><color=#9a75ff>Ice Rain</color></b></style> \r\n\r\nSia will rain down sharp, damaging, ice atop your enemies.\r\n\r\n<style=h3><b><color=#00FF66>*Unlock*</color></b></style> \r\nYou can unlock Sia’s skills in her skill tree page.\r"
+        },
+        {
+          "key": 170,
+          "value": "<style=Title><b><color=#9a75ff>Min Barrier</color></b></style> \r\n\r\nMin can summon a shield that protects you from a single enemy attack regardless of strength.\r\n\r\n<style=h3><b><color=#00FF66>*Unlock*</color></b></style> \r\nYou can unlock Min’s skills in her skill tree page.\r"
+        },
+        {
+          "key": 172,
+          "value": "<style=Title><b><color=#9a75ff>Yohan’s Car</color></b></style>\r\n\r\nWhen you want to talk to Yohan, you can visit him in his <color=#00FFFF>car</color>, which is right next to Sia’s.\r"
+        },
+        {
+          "key": 173,
+          "value": " <style=Title><b><color=#9a75ff>Save</color></b></style> \n\nYou can save your progress near fast travel points.\n\n<style=h3><b><color=#00FF66>*Tip*</color></b></style> \nEternights <color=#00FFFF>autosaves</color> frequently. You can find this save at the top of the load list."
+        },
+        {
+          "key": 174,
+          "value": " <style=Title><b><color=#9a75ff>Precious Memories</color></b></style> \n\nThese are the last days you will get to spend with these characters. Make sure to spend them <i>wisely</i>.\n\n<style=h3><b><color=#00FF66>*Tip*</color></b></style> \nTry and see if you can <color=#00FFFF>max</color> out your relationship with at least one character."
+        },
+        {
+          "key": 816,
+          "value": "<style=h3><b><color=#00FF66>Elemental Fist is Ready!</color></b></style>\n\nPress {LeftTrigger}  to  break <b><color=red>Barriers</color>."
+        },
+        {
+          "key": 817,
+          "value": "<style=Title><b><color=#9a75ff>QTE</color></b></style> \r\n\r\nPress {ButtonWest} when the outer circle reaches within the <b><color=#00FFFF>colored range</color></b>.\r"
+        },
+        {
+          "key": 820,
+          "value": "<style=Title><b><color=#9a75ff>Parry</color></b></style> \r\n\r\nPress {ButtonEast} <i>right before</i> an enemy attack triggered by <color=#0000FF><b>blue</b></color> color will parry the enemy attack.\r\n\r\nSuccessful parry gives you a boost to the <b>Death Blow</b>."
+        }
+      ]
+    },
+    {
+      "name": " GameText_05_EnglishLeftTab_ArmSkills",
+      "entries": [
+        {
+          "key": 51,
+          "value": " Sword Arm"
+        },
+        {
+          "key": 52,
+          "value": " Special"
+        },
+        {
+          "key": 50,
+          "value": " Locked"
+        }
+      ]
+    },
+    {
+      "name": " GameText_06_EnglishMainMenu",
+      "entries": [
+        {
+          "key": 36,
+          "value": " Arm"
+        },
+        {
+          "key": 40,
+          "value": " Options"
+        },
+        {
+          "key": 38,
+          "value": " Tutorial"
+        },
+        {
+          "key": 39,
+          "value": " Save/Load"
+        },
+        {
+          "key": 37,
+          "value": " Relationship"
+        },
+        {
+          "key": 107,
+          "value": " Inspect"
+        },
+        {
+          "key": 41,
+          "value": "Social Stat"
+        },
+        {
+          "key": 43,
+          "value": "Attack"
+        },
+        {
+          "key": 45,
+          "value": "Placeholder"
+        },
+        {
+          "key": 835,
+          "value": "Lore"
+        }
+      ]
+    },
+    {
+      "name": " GameText_07_EnglishPersonalityTest",
+      "entries": [
+        {
+          "key": 62,
+          "value": " You are at the beginning of an adventure, which companion would you bring with you?"
+        },
+        {
+          "key": 66,
+          "value": " A talented bluebird"
+        },
+        {
+          "key": 67,
+          "value": " A tough lizard"
+        },
+        {
+          "key": 68,
+          "value": " A wise raccoon"
+        },
+        {
+          "key": 69,
+          "value": " A resourceful lynx"
+        },
+        {
+          "key": 63,
+          "value": " During your travels, you and your companion are tired and need to rest. Where do you decide to spend the night?"
+        },
+        {
+          "key": 70,
+          "value": " A cozy cabin"
+        },
+        {
+          "key": 71,
+          "value": " An opulent palace"
+        },
+        {
+          "key": 72,
+          "value": " A secure bunker"
+        },
+        {
+          "key": 64,
+          "value": " You and your companion find a basket capable of creating any and all kinds of food out of thin air. What do you do?"
+        },
+        {
+          "key": 73,
+          "value": " Woo! Cheese party!"
+        },
+        {
+          "key": 74,
+          "value": " End world hunger"
+        },
+        {
+          "key": 75,
+          "value": " Make money."
+        },
+        {
+          "key": 65,
+          "value": " On your way home, you are ambushed. They grab the basket and your companion and run in opposite directions. \\nWhat do you do?"
+        },
+        {
+          "key": 76,
+          "value": " Chase the basket"
+        },
+        {
+          "key": 77,
+          "value": " Chase your companion"
+        }
+      ]
+    },
+    {
+      "name": " GameText_08_EnglishCharacterNames",
+      "entries": [
+        {
+          "key": 55,
+          "value": " Yuna"
+        },
+        {
+          "key": 57,
+          "value": " Chani"
+        },
+        {
+          "key": 58,
+          "value": " Min"
+        },
+        {
+          "key": 59,
+          "value": " Sia"
+        },
+        {
+          "key": 56,
+          "value": " Yohan"
+        }
+      ]
+    },
+    {
+      "name": " GameText_09_EnglishMiniGame",
+      "entries": [
+        {
+          "key": 61,
+          "value": " Dance"
+        },
+        {
+          "key": 105,
+          "value": " Rotate Left"
+        },
+        {
+          "key": 106,
+          "value": " Rotate Right"
+        },
+        {
+          "key": 145,
+          "value": " Obtained:"
+        },
+        {
+          "key": 185,
+          "value": "SURVIVAL"
+        },
+        {
+          "key": 808,
+          "value": "No Item Found!"
+        },
+        {
+          "key": 815,
+          "value": "Find Eunji!"
+        },
+        {
+          "key": 819,
+          "value": "Need Item:"
+        }
+      ]
+    },
+    {
+      "name": " GameText_10_EnglishStartScene",
+      "entries": [
+        {
+          "key": 78,
+          "value": " New Game"
+        },
+        {
+          "key": 79,
+          "value": " Load Game"
+        }
+      ]
+    },
+    {
+      "name": " GameText_11_EnglishDungeonTexts",
+      "entries": [
+        {
+          "key": 2,
+          "value": " Fast Travel"
+        },
+        {
+          "key": 0,
+          "value": " Save Point"
+        },
+        {
+          "key": 1,
+          "value": " Next Stage"
+        },
+        {
+          "key": 13,
+          "value": " Previous Stage"
+        },
+        {
+          "key": 46,
+          "value": " Return to Train"
+        },
+        {
+          "key": 47,
+          "value": " <style=\"Title\">Are you sure?</style> (<color=red>It will proceed to the next day</color>)"
+        },
+        {
+          "key": 17,
+          "value": " Activate"
+        }
+      ]
+    },
+    {
+      "name": " GameText_12_EnglishProps_Apartment",
+      "entries": [
+        {
+          "key": 80,
+          "value": " Tissue Box"
+        },
+        {
+          "key": 82,
+          "value": " Rest"
+        },
+        {
+          "key": 83,
+          "value": " Get out"
+        },
+        {
+          "key": 81,
+          "value": " TV"
+        }
+      ]
+    },
+    {
+      "name": " GameText_13_EnglishProps_Shelter",
+      "entries": [
+        {
+          "key": 86,
+          "value": " Bed"
+        },
+        {
+          "key": 87,
+          "value": " Get out"
+        },
+        {
+          "key": 85,
+          "value": " Microwave"
+        },
+        {
+          "key": 84,
+          "value": " Adult Magazine"
+        }
+      ]
+    },
+    {
+      "name": " GameText_14_EnglishLockerChoice",
+      "entries": [
+        {
+          "key": 88,
+          "value": " Hide with Yuna"
+        },
+        {
+          "key": 89,
+          "value": " Hide with Chani"
+        }
+      ]
+    },
+    {
+      "name": " GameText_15_EnglishMenuTexts",
+      "entries": [
+        {
+          "key": 44,
+          "value": " Paused"
+        },
+        {
+          "key": 15,
+          "value": " Menu"
+        },
+        {
+          "key": 16,
+          "value": " Apps"
+        },
+        {
+          "key": 90,
+          "value": " Skip"
+        }
+      ]
+    },
+    {
+      "name": " GameText_16_EnglishSkillTree",
+      "entries": [
+        {
+          "key": 91,
+          "value": "Locked"
+        },
+        {
+          "key": 92,
+          "value": "Acquired "
+        },
+        {
+          "key": 176,
+          "value": "Sia Ultimate"
+        },
+        {
+          "key": 177,
+          "value": "Yuna Ultimate"
+        },
+        {
+          "key": 178,
+          "value": "Min Ultimate"
+        },
+        {
+          "key": 809,
+          "value": "Unlocked"
+        }
+      ]
+    },
+    {
+      "name": " GameText_17_EnglishMenuButtons",
+      "entries": [
+        {
+          "key": 103,
+          "value": " Quit"
+        },
+        {
+          "key": 104,
+          "value": " Go back to latest checkpoint"
+        }
+      ]
+    },
+    {
+      "name": " GameText_18_EnglishDueDate",
+      "entries": [
+        {
+          "key": 96,
+          "value": " Due date reached"
+        },
+        {
+          "key": 93,
+          "value": " Days until"
+        },
+        {
+          "key": 94,
+          "value": "Train is hacked"
+        },
+        {
+          "key": 108,
+          "value": "Pathway Clear"
+        },
+        {
+          "key": 95,
+          "value": "Wall Solidification"
+        },
+        {
+          "key": 109,
+          "value": "Sia’s ready"
+        },
+        {
+          "key": 171,
+          "value": "The world ends"
+        },
+        {
+          "key": 110,
+          "value": "Fully cleansed stone"
+        }
+      ]
+    },
+    {
+      "name": " GameText_19_EnglishLeftTab_Option",
+      "entries": [
+        {
+          "key": 97,
+          "value": " Restart"
+        },
+        {
+          "key": 98,
+          "value": " Graphics"
+        },
+        {
+          "key": 99,
+          "value": " Audio"
+        },
+        {
+          "key": 100,
+          "value": " Quit"
+        }
+      ]
+    },
+    {
+      "name": "GameText_20_English_Menu_Tabs GameText_20_EnglishLeftTab_SaveLoad",
+      "entries": [
+        {
+          "key": 101,
+          "value": " Save"
+        },
+        {
+          "key": 102,
+          "value": " Load"
+        }
+      ]
+    },
+    {
+      "name": " GameText_22_EnglishSocialStats",
+      "entries": [
+        {
+          "key": 130,
+          "value": " Expression"
+        },
+        {
+          "key": 132,
+          "value": " Confidence"
+        },
+        {
+          "key": 131,
+          "value": " Courage"
+        },
+        {
+          "key": 133,
+          "value": " Acceptance"
+        }
+      ]
+    },
+    {
+      "name": "DONOTUSE_GameText_23_DungeonProps GameText_23_English_PropCityDungeon",
+      "entries": [
+        {
+          "key": 134,
+          "value": " Yuna's Blanket"
+        },
+        {
+          "key": 135,
+          "value": " Yuna's Teddy Bear"
+        },
+        {
+          "key": 136,
+          "value": " Yuna's Mug"
+        },
+        {
+          "key": 137,
+          "value": " Min's Blanket"
+        },
+        {
+          "key": 138,
+          "value": " Min's Cactus"
+        },
+        {
+          "key": 139,
+          "value": " Min's Kettle Bell"
+        },
+        {
+          "key": 140,
+          "value": " Sia's Blanket"
+        },
+        {
+          "key": 141,
+          "value": " Sia's Clock"
+        },
+        {
+          "key": 142,
+          "value": " Sia's Game Console"
+        }
+      ]
+    },
+    {
+      "name": "GameText_24_Tutorial2 GameText_24_EnglishTutorialSection2",
+      "entries": [
+        {
+          "key": 143,
+          "value": " Social Stats"
+        },
+        {
+          "key": 144,
+          "value": " <style=Title><b><color=#9a75ff>Social Stat</color></b></style> \n\nThe way you respond will increase different <color=#cbadff>Social Stats</color>.\n\n<style=h3><b><color=#00FF66>*Tip*</color></b></style> \n<color=#cbadff>Social Stats</color> are what allow you to take your relationship with your confidant to the <color=green>next level</color>."
+        },
+        {
+          "key": 146,
+          "value": " <color=yellow>Elemental Gauge</color> is at the top left of the game screen. \nNext to the HP.\n"
+        },
+        {
+          "key": 179,
+          "value": " <style=Title><b><color=#9a75ff>Min Ultimate Skill</color></b></style> \n\nMin will save you from a fatal blow with her shield.\n\n<style=h3><b><color=#00FF66>*Tip*</color></b></style>\nThis skill can only be activated once a day."
+        },
+        {
+          "key": 181,
+          "value": " <style=Title><b><color=#9a75ff>Sia Ultimate Skill</color></b></style> \n\nSia will freeze <b>any enemy</b> with her ice powers."
+        },
+        {
+          "key": 180,
+          "value": " <style=Title><b><color=#9a75ff>Yuna Ultimate Skill</color></b></style> \n\nIf you fall in battle, Yuna will resurrect you.\n\n<style=h3><b><color=#00FF66>*Tip*</color></b></style>\nThis skill can only be activated once a day."
+        },
+        {
+          "key": 182,
+          "value": " <style=Title><b><color=#9a75ff>Barrier Breaking</color></b></style> \n\nUse your <color=#cbadff>Elemental Fist</color> to break through monsters that have barriers. Some barriers are stronger than others and may require several hits with the <color=#cbadff>Elemental Fist</color>. \n\n<style=h3><b><color=#00FF66>*Tip*</color></b></style>\nGet a boost to your <color=yellow>Elemental Gauge</color> by doing a <color=#00FFFF>Perfect Dodge</color>."
+        },
+        {
+          "key": 801,
+          "value": "White Essence"
+        },
+        {
+          "key": 802,
+          "value": "<style=Title><b><color=#9a75ff>White Essence</color></b></style> \r\n\r\nYou gain <color=#00FFFF>White Essence</color> by training with your confidants. \r\n\r\n<style=h3><b><color=#00FF66>*Tip*</color></b></style>\r\nYou can <color=#cbadff>train</color> with your confidants at any time.\r"
+        },
+        {
+          "key": 803,
+          "value": "Black Essence"
+        },
+        {
+          "key": 804,
+          "value": "<style=Title><b><color=#9a75ff>Black Essence</color></b></style> \r\n\r\n<color=#00FFFF>Black Essence</color> allows you to unlock sword skills.\r\n\r\n<style=h3><b><color=#00FF66>*Tip*</color></b></style> You gather Black Essence by <color=#cbadff>finding it in dungeons</color> or <color=#cbadff>killing powerful monsters</color>.  "
+        },
+        {
+          "key": 805,
+          "value": "City Scavenging"
+        },
+        {
+          "key": 806,
+          "value": "<style=Title><b><color=#9a75ff>Scavenging & Combat Stats</color></b></style> \r\n\r\nYou can increase certain <color=#00FFFF>Combat Stats</color> by going to the city and scavenging. \r\nDepending on what <i>character you choose</i>, different stats will be increased. \r\n\r\n<style=h3><b><color=#00FF66>*Tip*</color></b></style>\r\nYou can <color=#cbadff>Go Scavenging</color> with the character by talking to them at night.\r"
+        },
+        {
+          "key": 818,
+          "value": "<style=Title><b><color=#9a75ff>Perfect Dodge Reminder</color></b></style> \r\n\r\nDodging <i>right before</i> an enemy attack triggers <color=#00FFFF><b>Slows Down</b></color> .\r\n\r\nUse  {ButtonSouth}  <i>right before</i> enemy attacks.\r"
+        }
+      ]
+    },
+    {
+      "name": "GameText_25",
+      "entries": [
+        {
+          "key": 151,
+          "value": " HP"
+        },
+        {
+          "key": 152,
+          "value": " SP"
+        },
+        {
+          "key": 149,
+          "value": " Atk"
+        },
+        {
+          "key": 150,
+          "value": " Def"
+        }
+      ]
+    },
+    {
+      "name": "GameText_26",
+      "entries": [
+        {
+          "key": 154,
+          "value": " <style=Title><b><color=#9a75ff>Breathe Training</color></b></style> \n\nControl your breathing by pressing {ButtonSouth}. Every breath you take will subtract numbers from your “total”. \n\nYour goal is to reach an even 0. If you fall below zero, your “breath” will not be counted."
+        },
+        {
+          "key": 155,
+          "value": " <style=Title><b><color=#9a75ff>Squat Session</color></b></style> \n\nPress the buttons shown in the right order in order to perform squats. After a while, the buttons will disappear and you will have to push the buttons based on the movements you make.\n\nShow Min that you deserve to be her coach by doing more squats than her!"
+        },
+        {
+          "key": 156,
+          "value": " <style=Title><b><color=#9a75ff>Cell Dividing</color></b></style> \n\nSplit up the cells into their correct categories!\n\n<color=red>red cells</color> go to the <b>left</b>.\n\n<color=blue>blue cells</color> go to <b>right</b>!"
+        },
+        {
+          "key": 157,
+          "value": " <style=Title><b><color=#9a75ff>Meditation</color></b></style> \n\nClick on good “thoughts” while trying to avoid clicking on bad “thoughts”!"
+        },
+        {
+          "key": 158,
+          "value": " {ButtonNorth}"
+        },
+        {
+          "key": 159,
+          "value": " {ButtonEast}"
+        },
+        {
+          "key": 160,
+          "value": " {ButtonSouth}"
+        },
+        {
+          "key": 161,
+          "value": " {ButtonWest}"
+        },
+        {
+          "key": 162,
+          "value": " {RightShoulder}"
+        },
+        {
+          "key": 163,
+          "value": " {LeftShoulder}"
+        }
+      ]
+    },
+    {
+      "name": "GameText_28_English_Items_Yuna",
+      "entries": [
+        {
+          "key": 722,
+          "value": "Pad"
+        },
+        {
+          "key": 723,
+          "value": "Baby wipes"
+        },
+        {
+          "key": 724,
+          "value": "Towel"
+        },
+        {
+          "key": 725,
+          "value": "Mug"
+        },
+        {
+          "key": 726,
+          "value": "Snacks"
+        },
+        {
+          "key": 727,
+          "value": "Nail clipper"
+        },
+        {
+          "key": 728,
+          "value": "Two bear plushies"
+        },
+        {
+          "key": 729,
+          "value": "Keyboard"
+        },
+        {
+          "key": 730,
+          "value": "Brush"
+        },
+        {
+          "key": 731,
+          "value": "Cleansing cream"
+        },
+        {
+          "key": 732,
+          "value": "Underwear"
+        }
+      ]
+    },
+    {
+      "name": "GameText_29_English_Items_Min",
+      "entries": [
+        {
+          "key": 744,
+          "value": "Shoes"
+        },
+        {
+          "key": 745,
+          "value": "Picture frame"
+        },
+        {
+          "key": 746,
+          "value": "Pain relief patches"
+        },
+        {
+          "key": 747,
+          "value": "Kettlebell"
+        },
+        {
+          "key": 748,
+          "value": "Ball"
+        },
+        {
+          "key": 749,
+          "value": "Contact lenses"
+        },
+        {
+          "key": 750,
+          "value": "Dirty magazines"
+        },
+        {
+          "key": 751,
+          "value": "Candles"
+        },
+        {
+          "key": 752,
+          "value": "Whip"
+        },
+        {
+          "key": 754,
+          "value": "Headphones"
+        },
+        {
+          "key": 753,
+          "value": "Cactus"
+        }
+      ]
+    },
+    {
+      "name": "GameText_30_English_Items_Sia",
+      "entries": [
+        {
+          "key": 733,
+          "value": "Toothbrush"
+        },
+        {
+          "key": 734,
+          "value": "GamerBoy"
+        },
+        {
+          "key": 735,
+          "value": "Bear clock"
+        },
+        {
+          "key": 736,
+          "value": "Batteries"
+        },
+        {
+          "key": 737,
+          "value": "Flamethrower"
+        },
+        {
+          "key": 738,
+          "value": "Thick blanket"
+        },
+        {
+          "key": 739,
+          "value": "Board game"
+        },
+        {
+          "key": 740,
+          "value": "Safety gloves"
+        },
+        {
+          "key": 741,
+          "value": "Chocolate"
+        },
+        {
+          "key": 742,
+          "value": "Book: “History of Calligraphy"
+        },
+        {
+          "key": 743,
+          "value": "Book: “Human Electrical Currents”"
+        }
+      ]
+    },
+    {
+      "name": "GameText_31_English_Items_Yohan",
+      "entries": [
+        {
+          "key": 755,
+          "value": "Sleeping mask"
+        },
+        {
+          "key": 757,
+          "value": "Tea bags"
+        },
+        {
+          "key": 756,
+          "value": "Coffee beans"
+        },
+        {
+          "key": 758,
+          "value": "Pillow"
+        }
+      ]
+    },
+    {
+      "name": "GameText_32_English_Ch1_SNS",
+      "entries": [
+        {
+          "key": 708,
+          "value": "Click here to claim your own super all mighty power!"
+        },
+        {
+          "key": 709,
+          "value": "Information saves lives. Grant us access to your social media account."
+        },
+        {
+          "key": 710,
+          "value": "Confirm"
+        },
+        {
+          "key": 711,
+          "value": "Do you want power? Click on the link below!"
+        },
+        {
+          "key": 712,
+          "value": "Do you want food? Click on the link below!"
+        },
+        {
+          "key": 713,
+          "value": "Transfer In Progress…"
+        },
+        {
+          "key": 714,
+          "value": "Transfer Complete!"
+        },
+        {
+          "key": 700,
+          "value": "I know somewhere safe! Here are the coordinates"
+        },
+        {
+          "key": 701,
+          "value": "If you bring my plushy with you, you’ll get a special reward!"
+        },
+        {
+          "key": 702,
+          "value": "I knew Yuna would help us!"
+        },
+        {
+          "key": 703,
+          "value": "Yuna’s save the world concert confirmed?"
+        },
+        {
+          "key": 704,
+          "value": "She really cares about her fans!"
+        },
+        {
+          "key": 705,
+          "value": "Yuna will save us!"
+        },
+        {
+          "key": 706,
+          "value": "Yuna we will follow you where-ever!"
+        },
+        {
+          "key": 707,
+          "value": "Pog Yuna"
+        }
+      ]
+    },
+    {
+      "name": "GameText_32_English_Yuna_Date",
+      "entries": []
+    },
+    {
+      "name": "GameText_33_English_Store",
+      "entries": [
+        {
+          "key": 717,
+          "value": "Required rank"
+        },
+        {
+          "key": 719,
+          "value": "Black Essence"
+        },
+        {
+          "key": 718,
+          "value": "White Essence"
+        },
+        {
+          "key": 720,
+          "value": "Cost:"
+        },
+        {
+          "key": 721,
+          "value": "Required skill"
+        },
+        {
+          "key": 800,
+          "value": "Hold {ButtonNorth} to see tutorial."
+        },
+        {
+          "key": 715,
+          "value": "?"
+        }
+      ]
+    },
+    {
+      "name": "GameText_34_VideoTexts",
+      "entries": [
+        {
+          "key": 810,
+          "value": "Nevada, United States of America"
+        },
+        {
+          "key": 811,
+          "value": "Copenhagen, Denmark"
+        },
+        {
+          "key": 812,
+          "value": "London, United Kingdom"
+        },
+        {
+          "key": 813,
+          "value": "São Paulo, Brazil\r"
+        },
+        {
+          "key": 814,
+          "value": "Seoul, South Korea"
+        }
+      ]
+    },
+    {
+      "name": "GameText_35_Lore",
+      "entries": [
+        {
+          "key": 821,
+          "value": " <style=Title><b><color=#9a75ff>Act 1</color></b></style> \n\nThis happened."
+        },
+        {
+          "key": 822,
+          "value": " <style=Title><b><color=#9a75ff>Act 2-1</color></b></style> \n\nThis happened."
+        },
+        {
+          "key": 823,
+          "value": " <style=Title><b><color=#9a75ff>Act 2-2</color></b></style> \n\nThis happened."
+        },
+        {
+          "key": 824,
+          "value": "Act 1"
+        },
+        {
+          "key": 825,
+          "value": "Act 2-1"
+        },
+        {
+          "key": 826,
+          "value": "Act 2-2"
+        },
+        {
+          "key": 827,
+          "value": " <style=Title><b><color=#9a75ff>Act 3-1</color></b></style> \n\nThis happened."
+        },
+        {
+          "key": 828,
+          "value": " <style=Title><b><color=#9a75ff>Act 3-2</color></b></style> \n\nThis happened."
+        },
+        {
+          "key": 831,
+          "value": "Act 3-1"
+        },
+        {
+          "key": 832,
+          "value": "Act 3-2"
+        },
+        {
+          "key": 829,
+          "value": " <style=Title><b><color=#9a75ff>Act 4-1</color></b></style> \n\nThis happened."
+        },
+        {
+          "key": 830,
+          "value": " <style=Title><b><color=#9a75ff>Act 4-2</color></b></style> \n\nThis happened."
+        },
+        {
+          "key": 833,
+          "value": "Act 4-1"
+        },
+        {
+          "key": 834,
+          "value": "Act 4-2"
+        }
+      ]
+    }
+  ]
+}
